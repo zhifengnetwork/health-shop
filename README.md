@@ -1,4 +1,4 @@
-# new-retail-shop
+# health-shop
 
 > A Vue.js project
 
